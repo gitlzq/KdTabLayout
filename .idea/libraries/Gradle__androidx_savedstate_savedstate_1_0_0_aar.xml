@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.savedstate:savedstate:1.0.0@aar">
     <CLASSES>
-      <root url="jar://D:/Android/gradle/caches/transforms-2/files-2.1/6a6af4ea2fadaa66c773f3ffe79910a7/jetified-savedstate-1.0.0/jars/classes.jar!/" />
-      <root url="file://D:/Android/gradle/caches/transforms-2/files-2.1/6a6af4ea2fadaa66c773f3ffe79910a7/jetified-savedstate-1.0.0/res" />
+      <root url="jar://D:/Android/gradle/caches/transforms-2/files-2.1/18aa5db55ec2eced0a546a61ebd11a09/jetified-savedstate-1.0.0/jars/classes.jar!/" />
+      <root url="file://D:/Android/gradle/caches/transforms-2/files-2.1/18aa5db55ec2eced0a546a61ebd11a09/jetified-savedstate-1.0.0/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
