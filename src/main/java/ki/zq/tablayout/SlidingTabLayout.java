@@ -26,9 +26,6 @@ import androidx.fragment.app.FragmentActivity;
 import androidx.viewpager.widget.ViewPager;
 import androidx.viewpager2.widget.ViewPager2;
 
-
-import com.flyco.tablayout.R;
-
 import java.util.ArrayList;
 import java.util.Collections;
 

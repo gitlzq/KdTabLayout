@@ -10,7 +10,7 @@ import android.util.AttributeSet;
 
 import androidx.appcompat.widget.AppCompatTextView;
 
-import com.flyco.tablayout.R;
+import ki.zq.tablayout.R;
 
 /** 用于需要圆角矩形框背景的TextView的情况,减少直接使用TextView时引入的shape资源文件 */
 public class MsgView extends AppCompatTextView {

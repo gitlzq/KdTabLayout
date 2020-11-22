@@ -27,8 +27,6 @@ import android.widget.TextView;
 import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentActivity;
 
-import com.flyco.tablayout.R;
-
 import java.util.ArrayList;
 
 import ki.zq.tablayout.listener.CustomTabEntity;
